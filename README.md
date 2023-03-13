@@ -1,8 +1,8 @@
 # LMS-ACTIVE
-Usage:
-Go to: chrome://extensions/
-Enable Developer Mode
-Click Load Unpacked
-Select root directory containing content.js & manifest.json
-Update Extensions
-Pin it in the Extensions Tab.
+Usage:\n
+Go to: chrome://extensions/ \n
+Enable Developer Mode\n
+Click Load Unpacked\n
+Select root directory containing content.js & manifest.json\n
+Update Extensions\n
+Pin it in the Extensions Tab.\n
